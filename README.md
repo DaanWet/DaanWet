@@ -1,6 +1,8 @@
-# Hi, I'm Damascus
+
 <!--
 **DaanWet/ProfilePage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+
+<img src="https://github.com/DaanWet/DaanWet/blob/main/header.png"/>
 
 #### I'm a Computer Science student at Ghent University, most of the time I'm developing Discord Bots or Spigot plugins.
 - 🔭 I’m currently working on an [UNO Discord Bot](https://github.com/DaanWet/Pingo_Discord_Bot)
