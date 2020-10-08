@@ -5,7 +5,7 @@
 <img src="https://github.com/DaanWet/DaanWet/blob/main/header.png"/>
 
 
-[![Discord Shield](https://discordapp.com/api/guilds/744260200923660338/widget.png?style=shield)](https://discord.gg/4Atn8t2)
+<a href="https://discord.gg/4Atn8t2"><img src="https://img.shields.io/static/v1?logo=discord&label=&message=Discord&color=36393f&style=flat-square" alt="Discord"></a>
 
 #### I'm a Computer Science student at Ghent University, most of the time I'm developing Discord Bots or Spigot plugins.
 - 🔭 I’m currently working on an [UNO Discord Bot](https://github.com/DaanWet/Pingo_Discord_Bot)
