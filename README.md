@@ -4,6 +4,9 @@
 
 <img src="https://github.com/DaanWet/DaanWet/blob/main/header.png"/>
 
+
+[![Discord Shield](https://discordapp.com/api/guilds/744260200923660338/widget.png?style=shield)](https://discord.gg/4Atn8t2)
+
 #### I'm a Computer Science student at Ghent University, most of the time I'm developing Discord Bots or Spigot plugins.
 - 🔭 I’m currently working on an [UNO Discord Bot](https://github.com/DaanWet/Pingo_Discord_Bot)
 - 🌱 I’m currently learning basic principles of Artificial Intelligence
@@ -26,6 +29,8 @@ More of a fan of Spigot plugins? Then I have something for you too:
 - Tired of cutting down trees and their leaves? Use [LumberAxe](https://github.com/DaanWet/LumberAxe)
 - Need a Pluging because you want some teams in your server? Use [TeamsPlus](https://github.com/DaanWet/MinecraftTeamsPlugin)
 
+
+[![Discord Banner 2](https://discordapp.com/api/guilds/744260200923660338/widget.png?style=banner2)](https://discord.gg/4Atn8t2)
 
 ## Languages and Tools:
 
