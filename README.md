@@ -9,7 +9,7 @@
 
 #### I'm a Computer Science student at Ghent University, most of the time I'm developing Discord Bots or Spigot plugins.
 - 🔭 I’m currently working on an [UNO Discord Bot](https://github.com/DaanWet/Pingo_Discord_Bot)
-- 🌱 I’m currently learning basic principles of Artificial Intelligence
+- 🌱 I’m currently learning the Facebook API
 - 💬 Ask me about JDA or java
 - 📫 How to reach me: Contact me on Discord: Damascus#0557 or via my [server](https://discord.gg/4Atn8t2)
 - ⚡ Fun fact: I've never touched CSS
