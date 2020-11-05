@@ -18,7 +18,9 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=11187044527&cover_image=false)](https://spotify-github-profile.vercel.app/api/view?uid=11187044527&redirect=true)
 ## My Projects
 
-Invite my Discord Bot (Sumarville) [here](https://discord.com/oauth2/authorize?client_id=577940186755891211&permissions=470281280&scope=bot)
+Invite my D&D Discord Bot (Sumarville) [here](https://discord.com/oauth2/authorize?client_id=577940186755891211&permissions=470281280&scope=bot)
+Or invite my General Discord Bot (Pingo) [here](https://discord.com/api/oauth2/authorize?client_id=589027434611867668&permissions=478280816&scope=bot)
+It has blackjack, uno and a role picker
 </br>
 Support needed? Join my [discord server](https://discord.gg/4Atn8t2)
 </br>
