@@ -18,24 +18,31 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=11187044527&cover_image=false)](https://spotify-github-profile.vercel.app/api/view?uid=11187044527&redirect=true)
 ## My Projects
 
+### Discord Bots
 Invite my D&D Discord Bot (Sumarville) [here](https://discord.com/oauth2/authorize?client_id=577940186755891211&permissions=470281280&scope=bot)
 </br>
 Or invite my General Discord Bot (Pingo) [here](https://discord.com/api/oauth2/authorize?client_id=589027434611867668&permissions=478280816&scope=bot)
 It has blackjack, uno and a role picker
-</br>
-Support needed? Join my [discord server](https://discord.gg/4Atn8t2)
+
 </br>
 ✨ Now approved on [top.gg](https://top.gg/bot/577940186755891211) ✨
 
-
+### Minecraft plugins
 More of a fan of Spigot plugins? Then I have something for you too:
 - Tired of cutting down trees and their leaves? Use [LumberAxe](https://github.com/DaanWet/LumberAxe)
-- Need a Pluging because you want some teams in your server? Use [TeamsPlus](https://github.com/DaanWet/MinecraftTeamsPlugin)
+- Need a plugin because you want some teams in your server? Use [TeamsPlus](https://github.com/DaanWet/MinecraftTeamsPlugin)
 
+### Javascript Library
+Do you have a steelseries product?
+Use my [gamesense-client package](https://github.com/DaanWet/gamesense-client) to make node apps for games or other applications
+
+
+</br>
+Support needed? Join my [discord server](https://discord.gg/4Atn8t2)
 
 [![Discord Banner 2](https://discordapp.com/api/guilds/744260200923660338/widget.png?style=banner2)](https://discord.gg/4Atn8t2)
 
-## Languages and Tools:
+### Languages and Tools:
 
 <img alt="java" width="26px" align="left" src="https://img.icons8.com/color/240/000000/java-coffee-cup-logo.png">
 <img alt="python" width="26px" align="left" src="https://img.icons8.com/color/240/000000/python.png">
@@ -53,6 +60,8 @@ More of a fan of Spigot plugins? Then I have something for you too:
 
 </br>
 
-[![DaanWet's github stats](https://github-readme-stats.vercel.app/api?username=DaanWet&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![DaanWet's github stats](https://github-readme-stats.vercel.app/api?username=DaanWet&theme=dark&show_icons=true&count_private=true&cache_seconds=1800)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaanWet&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaanWet&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=daanwet&repo=Pingo_Discord_Bot&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=daanwet&repo=gamesense-client&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
