@@ -20,11 +20,12 @@
 
 ### Discord Bots
 Invite my D&D Discord Bot (Sumarville) [here](https://discord.com/oauth2/authorize?client_id=577940186755891211&permissions=470281280&scope=bot)
-</br>
+
 Or invite my General Discord Bot (Pingo) [here](https://discord.com/api/oauth2/authorize?client_id=589027434611867668&permissions=478280816&scope=bot)
+
 It has blackjack, uno and a role picker
 
-</br>
+
 ✨ Now approved on [top.gg](https://top.gg/bot/577940186755891211) ✨
 
 ### Minecraft plugins
@@ -37,7 +38,7 @@ Do you have a steelseries product?
 Use my [gamesense-client package](https://github.com/DaanWet/gamesense-client) to make node apps for games or other applications
 
 
-</br>
+
 Support needed? Join my [discord server](https://discord.gg/4Atn8t2)
 
 [![Discord Banner 2](https://discordapp.com/api/guilds/744260200923660338/widget.png?style=banner2)](https://discord.gg/4Atn8t2)
