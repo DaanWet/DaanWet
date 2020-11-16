@@ -62,6 +62,6 @@ Join my [discord server](https://discord.gg/4Atn8t2)
 
 [![DaanWet's github stats](https://github-readme-stats.vercel.app/api?username=DaanWet&theme=dark&show_icons=true&count_private=true&cache_seconds=1800)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaanWet&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=daanwet&repo=Pingo_Discord_Bot&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=daanwet&repo=gamesense-client&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=daanwet&repo=Pingo_Discord_Bot&theme=dark)](https://github.com/daanwet/Pingo_Discord_Bot)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=daanwet&repo=gamesense-client&theme=dark)](https://github.com/daanwet/gamesense-client)
 
