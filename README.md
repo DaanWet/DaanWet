@@ -11,7 +11,7 @@
 - 🔭 I’m currently working on an [UNO Discord Bot](https://github.com/DaanWet/Pingo_Discord_Bot)
 - 🌱 I’m currently learning Spring
 - 💬 Ask me about JDA or java
-- 📫 How to reach me: Contact me on Discord: Damascus#0420 or via my [server](https://discord.gg/4Atn8t2)
+- 📫 How to reach me: Contact me on Discord: Damascus#9999 or via my [server](https://discord.gg/4Atn8t2)
 - ⚡ Fun fact: I've never touched CSS
 
 ## Spotify Playing
