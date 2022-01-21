@@ -6,6 +6,7 @@
 
 
 <a href="https://discord.gg/4Atn8t2"><img src="https://img.shields.io/static/v1?logo=discord&label=&message=Discord&color=36393f&style=flat-square" alt="Discord"></a>
+![Code Time](https://img.shields.io/endpoint?style=flat&url=https://codetime-api.datreks.com/badge/3441?logoColor=white%26project=Pingo_Discord_Bot%26recentMS=0%26showProject=false)
 
 #### I'm a Computer Science student at Ghent University, most of the time I'm developing Discord Bots or Spigot plugins.
 - 🔭 I’m currently working on an [UNO Discord Bot](https://github.com/DaanWet/Pingo_Discord_Bot)
