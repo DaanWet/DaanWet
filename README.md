@@ -14,8 +14,8 @@
 - 🔭 I’m currently working on an [UNO Discord Bot](https://github.com/DaanWet/Pingo_Discord_Bot)
 - 🌱 I’m currently learning Java i18n
 - 💬 Ask me about JDA or java
-- 📫 How to reach me: Contact me on Discord: Damascus#9999 or via my [server](https://discord.gg/4Atn8t2)
-- ⚡ Fun fact: I've never touched CSS
+- 📫 How to reach me: Contact me on Discord: dazed00 or via my [server](https://discord.gg/4Atn8t2)
+- ⚡ Fun fact: ~~I've never touched CSS~~, I do now
 
 ## Spotify Playing
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=11187044527&cover_image=false)](https://spotify-github-profile.vercel.app/api/view?uid=11187044527&redirect=true)
