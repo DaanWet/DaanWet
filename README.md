@@ -11,14 +11,12 @@
 
 
 #### I'm a Computer Science student at Ghent University, most of the time I'm developing Discord Bots or Spigot plugins.
-- 🔭 I’m currently working on an [UNO Discord Bot](https://github.com/DaanWet/Pingo_Discord_Bot)
-- 🌱 I’m currently learning Java i18n
-- 💬 Ask me about JDA or java
+- 🔭 I’m currently working on an [Assist](https://assistonline.eu/)
+- 🌱 I’m currently learning Angular
+- 💬 Ask me about JDA or Java
 - 📫 How to reach me: Contact me on Discord: dazed00 or via my [server](https://discord.gg/4Atn8t2)
-- ⚡ Fun fact: ~~I've never touched CSS~~, I do now
+- ⚡ Fun fact: ??
 
-## Spotify Playing
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=11187044527&cover_image=false)](https://spotify-github-profile.vercel.app/api/view?uid=11187044527&redirect=true)
 ## My Projects
 
 ### Discord Bots
